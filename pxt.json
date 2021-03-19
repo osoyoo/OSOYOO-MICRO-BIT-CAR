@@ -6,6 +6,7 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:lzty634158/pxt-neopixel"
+	"ir": "github:osoyoo/OSOYOO_IR_BLACK_V2.0"
 	
 
 
