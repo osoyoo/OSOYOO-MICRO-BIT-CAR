@@ -1,6 +1,6 @@
-# mbit
+# OSOYOO
 
-Extension for Yahboom_mbit_en V3.0.4
+Extension for OSOYOO Micro Bit Car
 
 ## License
 
